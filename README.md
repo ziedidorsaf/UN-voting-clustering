@@ -123,7 +123,7 @@ Execute the cells in sequence:
 ```
 un-voting-clustering/
 │
-├── UN_Voting_Clustering.ipynb    # Main analysis notebook
+├── UN_Voting_Clustering.ipynb                # Main analysis notebook
 ├── unvotes.csv                               # Individual country votes
 ├── roll_calls.csv                            # Resolution information
 ├── issues.csv                                # Resolution categories
